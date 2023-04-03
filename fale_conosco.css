@@ -1,0 +1,78 @@
+body
+{
+    font-family: "Audiowide", sans-serif;
+    background-image: url("fundo4.jpg");
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.divprincipal
+{
+    height: 97vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+}
+.divdados
+{
+    background: rgba(244, 246, 249, 0.741);
+    height: 88vh;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    
+}
+.msg
+{
+    
+    height: 40vh;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.borda
+{
+    border-radius: 5px;
+    border-color: rgb(29, 114, 114);
+    width: 100%;
+    height: 5vh;
+}
+.botao
+{
+    background-color: rgb(59, 144, 143);
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 17px;
+}
+.logo
+{
+    height: 50vh;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.escritalogo
+{
+    font-family: 'Pinyon Script', cursive;
+    font-size: 45px;
+ 
+}
